@@ -9,8 +9,10 @@
 }
 
 .App-logo {
-  height: 20vmin;
   pointer-events: none;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
 }
 
 @media (prefers-reduced-motion: no-preference) {
